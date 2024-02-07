@@ -1,2 +1,2 @@
 # web-scraping
-ticket purchase
+ticket purchase. Backend - Selenium. Frontend - tkinter
